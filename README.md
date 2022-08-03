@@ -3,4 +3,6 @@ playlist link generated to CSV
 
 ## Modules required
 
-    pip3 install ---
+    pip3 install pytube
+## Run Program
+    python3 main.py
